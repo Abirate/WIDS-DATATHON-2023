@@ -14,5 +14,6 @@ Four (04) Kaggle notebooks containing the complete set of code files (including 
 - Notebook Part3: https://www.kaggle.com/code/abireltaief/wids-datathon-2023-part-3-tabnet-keras-0-631
 - Notebook Part4:
 
-Regarding these two **github notebooks**:  
-On Kaggle, I cited these two github notebooks (in the notebook part 4). They deal with two fast.ai variations of parameter optimization using **Optuna.**
+Regarding these three(03) **github notebooks**:  
+On Kaggle, I cited the first two github notebooks (in the notebook part 4). They deal with two fast.ai variations of parameter optimization using **Optuna.** 
+The third notebook is about the PyTorch training model (because it will go out of memory if you try to train it in the Kaggle environment).
